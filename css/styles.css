@@ -1,0 +1,17 @@
+/* Universal Header */
+.header-image img{
+	display: block;
+	float: none;
+	margin: 0 auto;
+}
+
+/* Page Header */
+.page-heading {
+	text-align: center;
+	text-decoration: underline;
+}
+
+/* Special form formatting */
+#middle-initial {
+	width: 35px;
+}
